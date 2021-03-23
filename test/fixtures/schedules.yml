@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  doctor: one
+  day_identifier: 1
+  start_time: 2021-03-23 01:02:45
+  end_time: 2021-03-23 01:02:45
+
+two:
+  doctor: two
+  day_identifier: 1
+  start_time: 2021-03-23 01:02:45
+  end_time: 2021-03-23 01:02:45
